@@ -1,0 +1,7 @@
+{
+  "name": "RoboBuddy AI",
+  "description": "A real-time, emotional-support robotic partner powered by Gemini Live API, supporting multiple modes and bi-lingual interaction in English and Hindi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
